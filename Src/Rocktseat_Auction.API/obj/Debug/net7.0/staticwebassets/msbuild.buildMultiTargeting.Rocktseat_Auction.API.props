@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rocktseat_Auction.API.props" />
+</Project>

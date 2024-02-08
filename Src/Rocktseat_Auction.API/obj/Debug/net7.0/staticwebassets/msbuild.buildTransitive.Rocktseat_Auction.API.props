@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Rocktseat_Auction.API.props" />
+</Project>
